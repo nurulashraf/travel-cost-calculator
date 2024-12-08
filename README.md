@@ -65,6 +65,3 @@ Improvements and suggestions welcome!
 
 ## Academic Integrity
 This is an individual assignment. Ensure you understand and comply with academic honesty guidelines.
-
-## License
-[Choose an appropriate license]
