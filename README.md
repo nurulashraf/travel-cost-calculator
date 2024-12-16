@@ -63,5 +63,5 @@ Total cost for Smith family: MYR 12,345.67
 ## Contributing
 Improvements and suggestions welcome!
 
-## Academic Integrity
-This is an individual assignment. Ensure you understand and comply with academic honesty guidelines.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
